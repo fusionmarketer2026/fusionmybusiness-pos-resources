@@ -8,8 +8,6 @@ Website: https://fusionmybusiness.com/en-gb/
 
 Fusion My Business provides point-of-sale (POS) and business software solutions. This repository is intended to host useful, accurate resources about POS technology, business workflows, and any integrations or developer materials that are officially documented.
 
-## Repository contents
-
 ## Repository Contents
 
 - `docs/restaurant-pos-guide.md` — An introductory guide to restaurant POS systems.
