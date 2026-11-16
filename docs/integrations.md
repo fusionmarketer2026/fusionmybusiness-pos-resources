@@ -1,16 +1,22 @@
-# Integrations and Developer Information
+# Integrations and Developer Resources
 
-This page is a placeholder for verified FusionMyBusiness integration and developer documentation.
+FusionMyBusiness provides POS and business software solutions for businesses. This section is intended to share technical information and resources related to POS integrations and developer documentation.
 
-## Before adding an integration
+## Integration Resources
 
-Document an integration only after the relevant product or technical team confirms:
+This section will cover information about supported integrations, technical connectivity and relevant business workflows as documentation becomes available.
 
-1. The integration is currently supported.
-2. The supported workflow and data exchanged are accurately described.
-3. Setup requirements and limitations are documented.
-4. Any API documentation or credentials guidance is approved for public release.
+## Developer Documentation
 
-Do not publish API keys, passwords, customer data, internal endpoints, or confidential implementation details.
+Future resources may include:
 
-No specific third-party integration is claimed by this draft repository.
+- POS integration documentation
+- API and developer guides
+- Technical setup instructions
+- Integration workflows and examples
+
+## Official Website
+
+For information about FusionMyBusiness products and services, visit:
+
+[https://fusionmybusiness.com/en-gb/](https://fusionmybusiness.com/en-gb/)
