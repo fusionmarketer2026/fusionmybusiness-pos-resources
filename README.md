@@ -1,4 +1,4 @@
-# FusionMyBusiness POS Resources
+# Fusion My Business POS Resources
 
 Official public repository for educational resources and developer-facing information related to Fusion My Business.
 
